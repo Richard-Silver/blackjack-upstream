@@ -27,6 +27,7 @@ public class Deck {
 }
 
 Some code that randomizes the cards dealt. Hooray!
+Show how the previous commit and this commit used expressed commits
 
 
 
