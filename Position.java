@@ -15,3 +15,5 @@ public class Position {
     this.hand.addCard(card);
   }
 }
+
+/*code to take bet with minimum amount mandatory*/

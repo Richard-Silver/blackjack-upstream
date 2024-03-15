@@ -35,3 +35,5 @@ public class Table {
   }
   
 }
+
+/*code to prompt user to enter an appropriate amount for the initial bet*/

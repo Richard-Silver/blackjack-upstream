@@ -88,3 +88,5 @@ public class Blackjack {
     }
   }
 }
+
+/*code to take mandatory initial bets*/
