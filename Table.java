@@ -37,3 +37,4 @@ public class Table {
 }
 
 /*code to prompt user to enter an appropriate amount for the initial bet*/
+/*code to prompt user to enter an amount from an appropriate range for the initial bet*/

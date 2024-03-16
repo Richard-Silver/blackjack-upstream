@@ -90,3 +90,4 @@ public class Blackjack {
 }
 
 /*code to take mandatory initial bets*/
+/*code adjusted to prompt user on what amount their initial bet will be*/

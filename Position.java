@@ -17,3 +17,4 @@ public class Position {
 }
 
 /*code to take bet with minimum amount mandatory*/
+/*code modified to adjust mandatory initial bet*/
