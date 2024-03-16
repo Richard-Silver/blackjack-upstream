@@ -17,3 +17,4 @@ public class Position {
 }
 
 /*code to take bet with minimum amount mandatory*/
+/*code to double down: double the bet and take one more card before standing*/

@@ -37,3 +37,4 @@ public class Table {
 }
 
 /*code to prompt user to enter an appropriate amount for the initial bet*/
+/*code to deal one more card to position in return for paying their initial bet again */
